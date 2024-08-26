@@ -1,0 +1,138 @@
+[
+  {
+    "Foto": "https://images.unsplash.com/photo-1631049552057-403cdb8f0658?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "number": "101",
+    "id": "1",
+    "BedType": "Single Bed",
+    "Amenities": ["TV", "WiFi", "Baño privado"],
+    "Rate": 50,
+    "OfferPrice": 35,
+    "Status": "Available",
+    "RoomFloor": "1"
+  },
+  {
+    "Foto": "https://images.unsplash.com/photo-1631049552057-403cdb8f0658?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "number": "102",
+    "id": "2",
+    "BedType": "Double Bed",
+    "Amenities": ["TV", "WiFi", "Baño privado", "Aire acondicionado"],
+    "Rate": 80,
+    "OfferPrice": 20,
+    "Status": "Booked",
+    "RoomFloor": "1"
+  },
+  {
+    "Foto": "https://images.unsplash.com/photo-1631049552057-403cdb8f0658?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "number": "103",
+    "id": "3",
+    "BedType": "Double Superior",
+    "Amenities": [
+      "TV",
+      "WiFi",
+      "Baño privado",
+      "Aire acondicionado",
+      "Minibar"
+    ],
+    "Rate": 120,
+    "OfferPrice": 10,
+    "Status": "Available",
+    "RoomFloor": "1"
+  },
+  {
+    "Foto": "https://images.unsplash.com/photo-1631049552057-403cdb8f0658?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "number": "104",
+    "id": "4",
+    "BedType": "Suite",
+    "Amenities": [
+      "TV",
+      "WiFi",
+      "Baño privado",
+      "Aire acondicionado",
+      "Minibar",
+      "Vista al mar"
+    ],
+    "Rate": 200,
+    "OfferPrice": 5,
+    "Status": "Booked",
+    "RoomFloor": "1"
+  },
+  {
+    "Foto": "https://images.unsplash.com/photo-1631049552057-403cdb8f0658?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "number": "105",
+    "id": "5",
+    "BedType": "Single Bed",
+    "Amenities": ["TV", "WiFi", "Baño privado"],
+    "Rate": 55,
+    "OfferPrice": 20,
+    "Status": "Available",
+    "RoomFloor": "1"
+  },
+  {
+    "Foto": "https://images.unsplash.com/photo-1631049552057-403cdb8f0658?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "number": "106",
+    "id": "6",
+    "BedType": "Double Bed",
+    "Amenities": ["TV", "WiFi", "Baño privado", "Aire acondicionado"],
+    "Rate": 85,
+    "OfferPrice": 5,
+    "Status": "Booked",
+    "RoomFloor": "1"
+  },
+  {
+    "Foto": "https://images.unsplash.com/photo-1631049552057-403cdb8f0658?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "number": "107",
+    "id": "7",
+    "BedType": "Double Superior",
+    "Amenities": [
+      "TV",
+      "WiFi",
+      "Baño privado",
+      "Aire acondicionado",
+      "Minibar"
+    ],
+    "Rate": 130,
+    "OfferPrice": 15,
+    "Status": "Available",
+    "RoomFloor": "1"
+  },
+  {
+    "Foto": "https://images.unsplash.com/photo-1631049552057-403cdb8f0658?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "number": "108",
+    "id": "8",
+    "BedType": "Suite",
+    "Amenities": [
+      "TV",
+      "WiFi",
+      "Baño privado",
+      "Aire acondicionado",
+      "Minibar",
+      "Vista al mar"
+    ],
+    "Rate": 210,
+    "OfferPrice": 10,
+    "Status": "Booked",
+    "RoomFloor": "1"
+  },
+  {
+    "Foto": "https://images.unsplash.com/photo-1631049552057-403cdb8f0658?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "number": "109",
+    "id": "9",
+    "BedType": "Single Bed",
+    "Amenities": ["TV", "WiFi", "Baño privado"],
+    "Rate": 60,
+    "OfferPrice": 5,
+    "Status": "Available",
+    "RoomFloor": "1"
+  },
+  {
+    "Foto": "https://images.unsplash.com/photo-1631049552057-403cdb8f0658?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "number": "110",
+    "id": "0",
+    "BedType": "Double Bed",
+    "Amenities": ["TV", "WiFi", "Baño privado", "Aire acondicionado"],
+    "Rate": 90,
+    "OfferPrice": 10,
+    "Status": "Booked",
+    "RoomFloor": "1"
+  }
+]
