@@ -1,11 +1,11 @@
 <?php
     $mysqli = new mysqli("localhost","root","raul","hotel_miranda");
-    
+
     if ($mysqli -> connect_errno) {
         echo "Failed to connect to MySQL: " . $mysqli -> connect_error;
         exit();
       }
-      
+
       $roomsArr = $mysqli -> query('SELECT * FROM rooms ORDER BY id ASC');
       $row = $roomsArr -> fetch_assoc();
 ?>

@@ -13,7 +13,7 @@ foreach ($roomsArr as $room) {
 ?>
 
 <?php if ($roomFound): ?>
-    <li>
+    <li><strong>ROOM: </strong><?= $roomFound["id"] ?>
             <ul>
                 <li><strong>NAME:</strong> <?= $roomFound["BedType"] ?></li>
                 <li><strong>NUMBER:</strong> <?= $roomFound["number"] ?></li>
